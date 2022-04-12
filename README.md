@@ -5,6 +5,9 @@
 <br>
 <br>
 
+**Example**
+<p align="center"><kbd><img src="https://i.postimg.cc/MZNC77Dn/Captura-de-pantalla-2022-04-12-112615.png" width="100%" height="100%" alt="IpWhois" /></kbd></p>
+
 **Steps**
 > 1. Open requirements.py (Python3 requirements.py)
 > 2. Configure config.json (Get your IpWhois Key <a href="https://i.postimg.cc/4NXdgRDv/Captura-de-pantalla-2022-04-12-112245.png">here</a>
