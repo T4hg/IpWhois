@@ -1,4 +1,4 @@
-import requests, os, sys, ctypes, json, datetime, getpass
+import requests, os, ctypes, json, datetime, getpass
 from colorama import Fore
 
 def banner():
