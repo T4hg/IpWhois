@@ -10,7 +10,7 @@
 
 **Steps**
 > 1. Open requirements.py (Python3 requirements.py)
-> 2. Configure config.json (Get your IpWhois Key <a href="https://i.postimg.cc/4NXdgRDv/Captura-de-pantalla-2022-04-12-112245.png">here</a>
+> 2. Configure config.json (Get your IpWhois Key <a href="https://i.postimg.cc/4NXdgRDv/Captura-de-pantalla-2022-04-12-112245.png">here</a>)
 > 3. Open whois.py (Python3 whois.py)
 > 4. Input the domain
 > 5. Enjoy ✨
