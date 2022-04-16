@@ -17,4 +17,5 @@
 <br>
 
 **Compatibility** <br>
-`All systems with Python 3.X`
+`All systems with Python 3.X`<br>
+`Windows 7 / 8 / 8.1 / 10 / 11`
